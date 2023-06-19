@@ -1,8 +1,9 @@
-head {
-    background-color: blue;
-    color: white; 
-    padding: 10px; 
+/* tutti i tag b saranno blu*/
+b{
+color:aqua;
 }
 
+mark{
+ color:gold rgb(193, 168, 26)
 
-
+}
