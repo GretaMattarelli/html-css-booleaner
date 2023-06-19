@@ -7,3 +7,22 @@ mark{
  color:gold rgb(193, 168, 26)
 
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #FFFFFF;
+  }
+  
+  td:nth-child(even),
+  th:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  
